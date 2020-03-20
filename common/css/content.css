@@ -93,3 +93,128 @@ img {
         margin-top:19px;
         float: right;
       }
+
+      /*영상 페이지*/
+          .content_mv {
+      max-width: 1420px;
+      margin:0 auto;
+    }
+    .content_all {
+      border-bottom: 2px solid #e5e5e5;
+      padding:130px 0;
+      overflow: hidden;
+    }
+    .movie-player-wrapper {
+      position: relative;
+      height: 0;
+      overflow: hidden;
+      padding-bottom: 56.26%;
+    }
+    .movie-player-wrapper .movie_wrap {
+      position: absolute;
+      /*top: 0;
+      left: 0;*/
+      width: 100%;
+      height: 100%;
+    } 
+      .inform3{
+        letter-spacing: -1px;
+        margin-top: 100px;
+      }
+      .txt3 {
+        width:49.2%;
+        font-family: 'Noto Sans KR', sans-serif;
+      margin:0 auto;
+      }
+      .txt3 > h3 {
+        font-size:38px;
+        line-height: 1.25;
+        margin-bottom:10px;
+        font-weight: 600;
+      }
+      .txt3 > p {
+        font-size:18px;
+        font-weight: 500;
+      }
+      .txt3 > ul {
+        padding:48px 0 0;
+      }
+      .txt3  h4 {
+        font-size:15px;
+        padding-bottom:14px;
+        margin-bottom: 12px;
+        border-bottom: 3px solid #222;
+        line-height: 1.25;
+        font-weight: 500;
+      }
+      .txt3  li {
+        font-size:15px;
+        display: inline-block;
+        width:29%;
+        vertical-align: top;
+        margin-left:5.85%;
+        line-height: 150%;
+      }
+      .txt3 li:first-child {
+        margin-left:0;
+      }
+      .content01 {
+        margin-top: 12px;
+      }
+      .content_mv article:last-child {
+        border-bottom: none;
+      }
+          .movie_small {
+      max-width: 811px;
+      width:57.1%;
+      float: left;
+    }
+      .inform4{
+        letter-spacing: -1px;
+        /*margin-top: 100px;*/
+        float: right;
+        /*margin-left:3.5%;*/
+        width:39.4%;
+      }
+      .txt4 {
+        /*width:39.4%;*/
+        font-family: 'Noto Sans KR', sans-serif;
+        margin:0 auto;
+        margin-top:20%;
+      }
+      .txt4 > h3 {
+        font-size:38px;
+        line-height: 1.25;
+        margin-bottom:10px;
+        font-weight: 600;
+      }
+      .txt4 > p {
+        font-size:18px;
+        font-weight: 500;
+        line-height: 150%;
+      }
+      .txt4 > p > strong {
+        color:#c80000;
+      }
+      .txt4 > ul {
+        padding:48px 0 0;
+      }
+      .txt4  h4 {
+        font-size:15px;
+        padding-bottom:14px;
+        margin-bottom: 12px;
+        border-bottom: 3px solid #222;
+        line-height: 1.25;
+        font-weight: 500;
+      }
+      .txt4  li {
+        font-size:15px;
+        display: inline-block;
+        width:29%;
+        vertical-align: top;
+        margin-left:5.85%;
+        line-height: 150%
+      }
+      .txt4 li:first-child {
+        margin-left:0;
+      }
